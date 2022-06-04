@@ -1,0 +1,167 @@
+{
+	"event_slider": [
+
+		{
+			"event_name_time": "15:45 Italia vs Alemania",
+			"event_image_url": "http://imgfz.com/i/YqbjVnW.jpeg",  
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "https://mn-nl-glb.mncdn.com/dlive/transcode-72-50/zkisice/1654367729/src/live.m3u8",
+			"event_url_3": "https://my.tiviapp.com/alemania-transcode-ninjabit/index.m3u8",
+			"event_url_4": "https://my.tiviapp.com/alemania-transcode-ninjabit/index.m3u8"
+		},
+		{
+			"event_name_time": "ATB",
+			"event_image_url": "https://www.oxigeno.bo/sites/default/files/styles/standar_640x480/public/field/image/atb-bolivia-en-vivo.gif",  
+			"event_type_url": "Exo",
+			"event_url_1": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "UNITEL",
+			"event_image_url": "http://imgfz.com/i/EDOobRA.jpeg",  
+			"event_type_url": "Exo",
+			"event_url_1": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "TV PERU",
+			"event_image_url": "http://imgfz.com/i/6XaNDTM.jpeg",  
+			"event_type_url": "Web",
+			"event_url_1": "https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		}
+	],
+	"event_date": "Sabado 04 de Junio - GMT-3",
+	"events": [
+
+		{
+			"event_name_time": "13:00 Hungria vs Inglaterra",
+			"event_type_url": "Exo",
+			"event_url_1": "https://mn-nl-glb.mncdn.com/dlive/transcode-65-213/zpasis/1654200089/src/live.m3u8",
+			"event_url_2": "https://mn-nl-glb.mncdn.com/dlive/transcode-65-213/zpasis/1654200089/src/live.m3u8",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "14:00 San Lorenzo vs Independiente",
+			"event_type_url": "Exo",
+			"event_url_1": "https://5g9s179kfgx9wn8tqwj9-cul47i-stp.p5cdn.com/dlive/transcode-83-243/zsiwe/1654339887/src/live.m3u8",
+			"event_url_2": "https://5g9s179kfgx9wn8tqwj9-cul47i-stp.p5cdn.com/dlive/transcode-83-243/zsiwe/1654339887/src/live.m3u8",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "15:45 Italia vs Alemania",
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "https://mn-nl-glb.mncdn.com/dlive/transcode-72-50/zkisice/1654367729/src/live.m3u8",
+			"event_url_3": "https://my.tiviapp.com/alemania-transcode-ninjabit/index.m3u8",
+			"event_url_4": "https://my.tiviapp.com/alemania-transcode-ninjabit/index.m3u8"
+		},
+		{
+			"event_name_time": "16:00 The Strongest vs Palmaflor",
+			"event_type_url": "Exo",
+			"event_url_1": "https://my.tiviapp.com/francedina-transcode-ninjabit/index.m3u8",
+			"event_url_2": "https://my.tiviapp.com/francedina-transcode-ninjabit/index.m3u8",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "16:00 Peñarol vs Cerro Largo",
+			"event_type_url": "Exo",
+			"event_url_1": "https://my.tiviapp.com/vtv-transcode-ninjabit-copy/index.m3u8",
+			"event_url_2": "https://my.tiviapp.com/vtv-transcode-ninjabit-copy/index.m3u8",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "18:30 Cerrito vs Plaza Colonia",
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "19:00 Patronato vs Velez",
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "19:00 Platense vs Godoy Cruz",
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "19:00 Atl. Paranaense vs Santos",
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "19:00 Avai vs Sao Paulo",
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "19:15 Atl Nacional vs Bucaramanga",
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "21:30 Racing vs Huracan",
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "21:30 Junior vs Millonarios",
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		},
+		{
+			"event_name_time": "23:00 El Salvador vs Granada",
+			"event_type_url": "Exo",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": ""
+		}
+	
+	],
+	"is_banner": "true",
+	"is_interstitial": "true",
+	"ad_network_type":"facebook",
+	"banner_ad_id":"1607873662919178_1607875756252302",
+	"interstitial_ad_id":"1607873662919178_1607875826252295",
+	"interstitial_ad_num":"3",
+	"app_update":"false",
+	"app_update_msg":"Nos mudamos a otra aplicacion, todos los partidos se veran en otra aplicacion y puedes descargarlo desde Play Store",
+	"app_update_link":"https://www.facebook.com/futbolplaylatino/"
+}
