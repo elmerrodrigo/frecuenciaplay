@@ -1,62 +1,211 @@
 {
 	"event_slider": [
-
-		{
-			"event_name_time": "15:45 Italia vs Alemania",
-			"event_image_url": "http://imgfz.com/i/YqbjVnW.jpeg",  
+	],
+	"event_date": "Lunes 03 de Julio - Hora Argentina",
+	"events": [
+	    {
+			"event_name_time": "NOTA: Todos los eventos estaran disponible 5 minutos antes de empezar, Gracias por descargar nuestra aplicacion.",
 			"event_type_url": "Exo",
 			"event_url_1": "",
-			"event_url_2": "https://mn-nl-glb.mncdn.com/dlive/transcode-72-50/zkisice/1654367729/src/live.m3u8",
-			"event_url_3": "https://my.tiviapp.com/alemania-transcode-ninjabit/index.m3u8",
-			"event_url_4": "https://my.tiviapp.com/alemania-transcode-ninjabit/index.m3u8"
-		},
-		{
-			"event_name_time": "ATB",
-			"event_image_url": "https://www.oxigeno.bo/sites/default/files/styles/standar_640x480/public/field/image/atb-bolivia-en-vivo.gif",  
-			"event_type_url": "Exo",
-			"event_url_1": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8",
 			"event_url_2": "",
 			"event_url_3": "",
-			"event_url_4": ""
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
 		},
 		{
-			"event_name_time": "UNITEL",
-			"event_image_url": "http://imgfz.com/i/EDOobRA.jpeg",  
-			"event_type_url": "Exo",
-			"event_url_1": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8",
-			"event_url_2": "",
-			"event_url_3": "",
-			"event_url_4": ""
-		},
-		{
-			"event_name_time": "TV PERU",
-			"event_image_url": "http://imgfz.com/i/6XaNDTM.jpeg",  
+			"event_name_time": "",
 			"event_type_url": "Web",
-			"event_url_1": "https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8",
+			"event_url_1": "",
 			"event_url_2": "",
 			"event_url_3": "",
-			"event_url_4": ""
-		}
-	],
-	"event_date": "Sabado 04 de Junio - GMT-3",
-	"events": [
-
-		{
-			"event_name_time": "13:00 Hungria vs Inglaterra",
-			"event_type_url": "Exo",
-			"event_url_1": "https://mn-nl-glb.mncdn.com/dlive/transcode-65-213/zpasis/1654200089/src/live.m3u8",
-			"event_url_2": "https://mn-nl-glb.mncdn.com/dlive/transcode-65-213/zpasis/1654200089/src/live.m3u8",
-			"event_url_3": "",
-			"event_url_4": ""
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
 		},
 		{
-			"event_name_time": "14:00 San Lorenzo vs Independiente",
-			"event_type_url": "Exo",
-			"event_url_1": "https://5g9s179kfgx9wn8tqwj9-cul47i-stp.p5cdn.com/dlive/transcode-83-243/zsiwe/1654339887/src/live.m3u8",
-			"event_url_2": "https://5g9s179kfgx9wn8tqwj9-cul47i-stp.p5cdn.com/dlive/transcode-83-243/zsiwe/1654339887/src/live.m3u8",
+			"event_name_time": "13:00 Huachipato vs Magallanes",
+			"event_type_url": "Web",
+			"event_url_1": "",
+			"event_url_2": "",
 			"event_url_3": "",
-			"event_url_4": ""
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "15:00 Liverpool vs Maldonado",
+			"event_type_url": "Web",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "19:30 Peñarol vs Torque",
+			"event_type_url": "Web",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "20:00 Audax Italiano vs OHiggins",
+			"event_type_url": "Web",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "20:00 Newells vs Gimnasia",
+			"event_type_url": "Web",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "20:00 Cesar Vallejo vs Cienciano",
+			"event_type_url": "Web",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "20:00 Goias vs Coritiba",
+			"event_type_url": "Web",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "22:30 Universitario vs Alianza Atletico",
+			"event_type_url": "Web",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
+		},
+		{
+			"event_name_time": "23:00 Leon vs Guadalajara",
+			"event_type_url": "Web",
+			"event_url_1": "",
+			"event_url_2": "",
+			"event_url_3": "",
+			"event_url_4": "",
+			"event_url_5": "",
+			"event_url_6": "",
+			"event_url_7": "",
+			"event_url_8": "",
+			"event_url_9": "",
+			"event_url_0": ""
 		}
-	
 	],
+	"event_tv_channel": [
+	    {
+			"event_name_channel": "ATB",
+			"event_image_url": "http://imgfz.com/i/Qzn5HaO.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8"
+		},
+		{
+			"event_name_channel": "Canal 26",
+			"event_image_url": "http://imgfz.com/i/j2Kl3N0.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "http://200.115.193.177/live/26hd-720/chunklist_w889968602.m3u8"
+		},
+		{
+			"event_name_channel": "Panamericana",
+			"event_image_url": "http://imgfz.com/i/RaMBfDn.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://cdnhd.iblups.com/hls/ptv2.m3u8"
+		},
+		{
+			"event_name_channel": "Canal 9 AR",
+			"event_image_url": "http://imgfz.com/i/zo0gHT4.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8"
+		},
+		{
+			"event_name_channel": "Tv Peru",
+			"event_image_url": "http://imgfz.com/i/aQBVZjW.jpeg", 
+			"event_type_url": "Web",
+			"event_url": "https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8"
+		},
+		{
+			"event_name_channel": "Canal NET",
+			"event_image_url": "http://imgfz.com/i/mwqgD6F.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8"
+		},
+		{
+			"event_name_channel": "Unitel",
+			"event_image_url": "http://imgfz.com/i/k1tGDVe.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8"
+		},
+		{
+			"event_name_channel": "America",
+			"event_image_url": "http://imgfz.com/i/jmSvteP.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8"
+		}
+	]
 }
